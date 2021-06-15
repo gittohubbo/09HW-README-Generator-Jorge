@@ -25,7 +25,7 @@ This application is covered by the MIT license.
 ## Contributing
  This was an individual project
 ## Tests
-✏️ No testing currently
+ No testing currently
 ## Questions
  Please report to Issues<br />
 <br />
